@@ -1,0 +1,3 @@
+/Users/han/GitHub/RRset/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/han/GitHub/RRset/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/han/GitHub/RRset/cmake-build-debug/CMakeFiles/RRset.dir
