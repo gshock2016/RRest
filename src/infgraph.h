@@ -62,8 +62,8 @@ public:
         for (int i = 0; i < n; i++){
             infmatrix.push_back(vector<int>());
             infAdjList.push_back(vector<int>());
-            for(int j =0; j < R; j++)
-                infmatrix[i].push_back(0);
+//            for(int j =0; j < R; j++)
+//                infmatrix[i].push_back(0);
         }
 
 

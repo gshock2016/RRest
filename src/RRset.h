@@ -60,7 +60,7 @@ class RRset
             double beta = sqrt((1-1/e) * (Math::logcnk(g.n, arg.k) + log(g.n) + log(2)));
 
             int64 R = 2.0 * g.n *  sqr((1-1/e) * alpha + beta) /  OPT_prime / arg.epsilon / arg.epsilon ;
-
+            cout<<"R = "<<R<<endl;
             //R/=100;
             g.build_hyper_graph_r(R, arg);
             g.build_seedset(arg.k);
@@ -227,9 +227,9 @@ class RRset
 //                myfile2<<i<<","<<infValues[i]<< "\n";
             if(infValues[i] > threshold) {
                 myfile2<<i<<","<<infValues[i]<< "\n";
-                for (int j = 0; j < (int) g.infmatrix[i].size(); j++) {
-                    myfile3 << g.infmatrix[i][j] << ",";
-                }
+//                for (int j = 0; j < (int) g.infmatrix[i].size(); j++) {
+//                    myfile3 << g.infmatrix[i][j] << ",";
+//                }
                 for (int j = 0; j < g.infAdjList[i].size(); j++) {
 //                        cout<<(int) g.infAdjList[i].size()<<endl;
                     myfile4 << g.infAdjList[i][j] << ",";

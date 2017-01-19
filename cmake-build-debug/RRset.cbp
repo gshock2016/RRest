@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/han/GitHub/RRset/cmake-build-debug"/>
+				<Option working_dir="/Users/han/GitHub/gshock/RRest/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/han/GitHub/RRset/cmake-build-debug"/>
+				<Option working_dir="/Users/han/GitHub/gshock/RRest/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/han/GitHub/RRset/cmake-build-debug"/>
+				<Option working_dir="/Users/han/GitHub/gshock/RRest/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="RRset">
-				<Option output="/Users/han/GitHub/RRset/cmake-build-debug/RRset" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/han/GitHub/RRset/cmake-build-debug"/>
+				<Option output="/Users/han/GitHub/gshock/RRest/cmake-build-debug/RRset" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/han/GitHub/gshock/RRest/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 RRset"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 RRset"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="RRset/fast">
-				<Option output="/Users/han/GitHub/RRset/cmake-build-debug/RRset" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/han/GitHub/RRset/cmake-build-debug"/>
+				<Option output="/Users/han/GitHub/gshock/RRest/cmake-build-debug/RRset" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/han/GitHub/gshock/RRest/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,17 +75,17 @@
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 RRset/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/RRset/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 RRset/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/han/GitHub/gshock/RRest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/han/GitHub/RRset/src/main.cpp">
+		<Unit filename="/Users/han/GitHub/gshock/RRest/src/main.cpp">
 			<Option target="RRset"/>
 		</Unit>
-		<Unit filename="/Users/han/GitHub/RRset/CMakeLists.txt">
+		<Unit filename="/Users/han/GitHub/gshock/RRest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
